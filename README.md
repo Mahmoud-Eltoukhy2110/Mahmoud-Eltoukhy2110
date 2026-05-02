@@ -1,6 +1,6 @@
 ![Banner](mahmoud.png)
 # ✨ Who am I?
-I'm **Mahmoud Eltoukhy**, a passionate **Backend Developer ** who loves building scalable and clean web applications.  
+I'm **Mahmoud Eltoukhy**, a passionate **Backend Developer** who loves building scalable and clean web applications.  
 I focus on creating robust systems and modern backend technologies.
 # 🚀 What I Do
 
