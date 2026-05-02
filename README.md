@@ -30,7 +30,7 @@ I focus on creating robust systems and modern backend technologies.
 
 * 📧 Email : <a href="mailto:mahmoudeltoukhy2110@gmail.com">Send Email</a>
 * 💼 GitHub : <a href="https://github.com/Mahmoud-Eltoukhy2110">Here!</a>
-* 🔗 LinkedIn : <a href="https://www.linkedin.com/in/mahmoud-khaled-66236331a/" target="_blank">My LinkedIn Profile</a>
+* 🔗 LinkedIn : <a href="https://www.linkedin.com/in/mahmoud-khaled-66236331a/" target="_blank">Click!</a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
